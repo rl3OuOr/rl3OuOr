@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=f9f871&height=120&section=footer&text=🤗%20rl3OuOr%20🤗&render&fontSize=70&&fontColor=ffff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=soft&color=f9f871&height=150&section=header&text=🤗%20rl3OuOr%20🤗&fontSize=70&animation=twinkling)
 
 <p align="center">🇰🇷 🇦🇺 🇸🇬</p>
 
@@ -20,5 +20,5 @@
  <a href="mailto:yajung0203@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=yajung0203@naver.com"/></a>
 
 
-![footer](https://capsule-render.vercel.app/api?type=soft&color=f9f871&height=70&section=footer&render&fontSize=90&&fontColor=ffff&animation=fadeIn)
+![footer](https://capsule-render.vercel.app/api?type=soft&color=f9f871&height=70&section=header&fontSize=70&animation=twinkling)
 
