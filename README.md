@@ -5,22 +5,9 @@
 <h3 align="center">💻 Tech Stack 💻 </h3>
 
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Javascript-3766AB?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/TypeScript-3766AB?style=flat-square&logo=TypeScript&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/React-007396?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
-  <br>
-  <img src="https://img.shields.io/badge/Html5-00599C?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Storybook-3766AB?style=flat-square&logo=Storybook&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Ptyon-11B48A?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-  <br>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Mysql-3766AB?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
-</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Javascript-3766AB?style=for-the-badge&logo=javascript&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Javascript-007396?style=for-the-badge&logo=javascript&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>&nbsp;&nbsp;&nbsp;
