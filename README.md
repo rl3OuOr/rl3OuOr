@@ -39,4 +39,3 @@ I'm YunAhJung, a junior FrontEnd developer.<br>
 </p>
 
 
-<h3 align="center">✨ Tech Stack ✨ </h3>
