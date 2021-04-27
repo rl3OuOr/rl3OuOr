@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=f9f871&height=150&section=header&text=🤗%20rl3OuOr%20🤗&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=f9f871&height=150&section=header&text=%20rl3OuOr%20&fontSize=70&animation=twinkling&fontColor=ffff)
 
-<p align="center">🇰🇷 🇦🇺 🇸🇬</p>
+<p align="center">🇰🇷 </p>
 
 <h3 align="center">💻 Tech Stack 💻 </h3>
 
@@ -8,7 +8,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp  
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescipt&logoColor=white"/></a>&nbsp  
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html&logoColor=white"/></a>&nbsp 
