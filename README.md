@@ -1,8 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=f9f871&height=150&section=header&text=%20rl3OuOr%20&fontSize=70&animation=twinkling&fontColor=FF9900)
+![header](https://capsule-render.vercel.app/api?type=soft&color=f9f871&height=150&section=header&text=%20rl3OuOr%20&fontSize=70&animation=twinkling)
 
-<p align="center">🇰🇷 </p>
+<h3 align="center"> 👋 Hello </h3>
+<p align="center">
+I'm YunAhJung, a junior FrontEnd developer.<br>
+</p>
 
-<h3 align="center">💻 Tech Stack 💻 </h3>
+
+<h3 align="center">✨ Tech Stack ✨ </h3>
 
 
 
@@ -35,5 +39,4 @@
 </p>
 
 
-![footer](https://capsule-render.vercel.app/api?type=soft&color=f9f871&height=70&section=header&fontSize=70&animation=twinkling)
-
+<h3 align="center">✨ Tech Stack ✨ </h3>
