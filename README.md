@@ -11,13 +11,14 @@ I'm YunAhJung, a junior FrontEnd developer.<br>
 
 
 <p align="center">
-    <img src="https://img.shields.io/badge/nextjs?style=for-the-badge&logo=nextjs&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Javascript-007396?style=for-the-badge&logo=javascript&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>&nbsp;&nbsp;&nbsp;
 </p>
-<p align="center">
+<p align="center">  
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=flat-square&logo=redux&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/HTML5%20-%2335495e.svg?&style=flat-square&logo=HTML5&logoColor=%234FC08D"/>&nbsp;&nbsp;
