@@ -19,14 +19,14 @@ I'm YunAhJung, a junior FrontEnd developer.<br>
 <p align="center">  
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=flat-square&logo=redux&logoColor=white"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/HTML5%20-%2335495e.svg?&style=flat-square&logo=HTML5&logoColor=%234FC08D"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/CSS3%20-%23092E20?style=flat-square&logo=css3&logoColor=white"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Storybook%20-%23FF9900.svg?&style=flat-square&logo=Storybook&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/HTML5%20-%2335495e.svg?&style=for-the-badge&logo=HTML5&logoColor=%234FC08D"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/CSS3%20-%23092E20?style=for-the-badge&logo=css3&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Storybook%20-%23FF9900.svg?&style=for-the-badge&logo=Storybook&logoColor=white"/>&nbsp;&nbsp;
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/SpringBoot%20-%236DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Mysql%20-%233766AB?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/SpringBoot%20-%236DB33F?style=for-the-badge&logo=Spring&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Mysql%20-%233766AB?style=for-the-badge&logo=MySql&logoColor=white"/></a>&nbsp 
 </p>
 
 <h3 align="center">•••</h3>
